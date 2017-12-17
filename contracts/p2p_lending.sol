@@ -31,6 +31,7 @@ library SafeMath {
   }
 }
 
+
 /**
  * @title ERC20 interface, by OpenZeppelin
  */
